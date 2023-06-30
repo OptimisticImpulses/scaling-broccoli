@@ -1,2 +1,2 @@
 # scaling-broccoli
-Testing gh pages thru action
+Testing gh pages through action
